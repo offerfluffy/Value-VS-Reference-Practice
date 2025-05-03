@@ -23,6 +23,8 @@
     3) String
     4) Null
     5) Undefined
+    6) Symbol (introduced in ES6)
+    7) BigInt (introduced in ES2020)
 
   Object: (Reference)
     1) Object
